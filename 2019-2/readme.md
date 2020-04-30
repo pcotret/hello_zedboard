@@ -44,7 +44,7 @@ Replace the C by the code available in the initial tutorial or in [the repositor
 
 Right click on the project and select **Program FPGA** to download the bitstream.
 
-Right click again and select **Run as => 1 Launch on Hardware (Single Application Debug) **.
+Right click again and select **Run as => 1 Launch on Hardware (Single Application Debug)**.
 
 Now, open a terminal and see the magic happen!
 
